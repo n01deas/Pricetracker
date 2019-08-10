@@ -21,6 +21,6 @@ pip install bs4
 2. Define your User-Agent from your Webbrowser
 (Google: "My User Agent" to find yours)
 3. Match the length of your price in the variable converted_price (e.g. [0:5] stands for five digits before the comma)
-4. Define the time how often the website should be checked (e.g. 60 = every hour)
-5. Define a limit, if it's undershot you'll get notificated
-6. Link your personal mail  
+4. Define a limit, if it's undershot you'll get notificated
+5. Link your personal mail
+6. Define how often the link should be checked
